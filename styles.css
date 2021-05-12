@@ -1,0 +1,23 @@
+/* VERY DELUXE CSS STYLINGS */
+
+body {
+    background: red;
+}
+
+h1 {
+    color: blue;
+}
+
+.friend {
+    background: purple;
+}
+
+div.friend > h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    color: green;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+/* VERY DELUXE CSS STYLINGS */
+
+body {
+    background: white;
+}
+
+h1 {
+    color: black;
+}
+
+.friend {
+    background: rgba(0, 0, 0, 0.842);
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.911);
+}
+
+div.friend > h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    color: dodgerblue;
+    text-align: center;
+}
+
+#btn {
+    margin-bottom: 20px;
+}
